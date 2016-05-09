@@ -1,4 +1,4 @@
-# Current-Proposals
+# Current Proposals
 
 Slock.it proposal for the Ethereum Computer and Universal Sharing Network
 
