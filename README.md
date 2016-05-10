@@ -1,5 +1,5 @@
-# Current Proposals
+# Slock.it Propposal to create the Ethereum Computer and Universal Sharing Network (to be branded later)
 
-Slock.it proposal for the Ethereum Computer and Universal Sharing Network
+### hash goes here once it is executed
 
 https://github.com/TheDAO/Current-Proposals/blob/master/Proposal1.pdf
